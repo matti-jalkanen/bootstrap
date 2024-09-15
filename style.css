@@ -1,0 +1,28 @@
+.nav-link.active { color: white !important;
+}
+
+body { position: relative;
+
+}
+.container { 
+    padding: 30px;
+
+}
+
+h1 {
+    color: rgb(1, 113, 23);
+    font-family: verdana;
+    font-size: 300%;
+  }
+
+h5 {
+    color: rgb(1, 113, 23);
+    font-family: verdana;
+    font-size: 200%;
+  }
+
+p {
+    color: rgb(1, 113, 23);
+    font-family: verdana;
+    font-size: 150%;
+  }
